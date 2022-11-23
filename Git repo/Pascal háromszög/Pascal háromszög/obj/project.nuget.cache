@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CGSO443Z+RwdJ8rNjcuD7d+w8O4vpcAAc2AiZ5fp63NdPA65lrlk1TohIk/DuKvQHxN5u6HNEM8ivGI7mnrfFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d86y6c\\Desktop\\Git repo\\Pascal háromszög\\Pascal háromszög\\Pascal háromszög.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d86y6c\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\d86y6c\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\d86y6c\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\d86y6c\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\d86y6c\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\d86y6c\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

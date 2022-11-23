@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "+zUU8lYJVfHsHa5qgs5ADmp1MIcHMTEqTNaudQJNXdQ=",
+  "Source": "Pascal háromszög",
+  "BasePath": "_content/Pascal háromszög",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Pascal háromszög\\wwwroot",
+      "Source": "Pascal háromszög",
+      "ContentRoot": "C:\\Users\\d86y6c\\Desktop\\Git repo\\Pascal háromszög\\Pascal háromszög\\wwwroot\\",
+      "BasePath": "_content/Pascal háromszög",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\d86y6c\\Desktop\\Git repo\\Pascal háromszög\\Pascal háromszög\\wwwroot\\jsgyak.html",
+      "SourceId": "Pascal háromszög",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\d86y6c\\Desktop\\Git repo\\Pascal háromszög\\Pascal háromszög\\wwwroot\\",
+      "BasePath": "_content/Pascal háromszög",
+      "RelativePath": "jsgyak.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsgyak.html"
+    },
+    {
+      "Identity": "C:\\Users\\d86y6c\\Desktop\\Git repo\\Pascal háromszög\\Pascal háromszög\\wwwroot\\jsgyak.js",
+      "SourceId": "Pascal háromszög",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\d86y6c\\Desktop\\Git repo\\Pascal háromszög\\Pascal háromszög\\wwwroot\\",
+      "BasePath": "_content/Pascal háromszög",
+      "RelativePath": "jsgyak.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsgyak.js"
+    }
+  ]
+}

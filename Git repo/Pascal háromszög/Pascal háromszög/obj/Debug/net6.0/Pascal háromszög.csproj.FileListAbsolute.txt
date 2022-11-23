@@ -1,0 +1,28 @@
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\appsettings.json
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Pascal háromszög.exe
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Pascal háromszög.deps.json
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Pascal háromszög.runtimeconfig.json
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Pascal háromszög.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Pascal háromszög.pdb
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.csproj.AssemblyReference.cache
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.AssemblyInfoInputs.cache
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.AssemblyInfo.cs
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.csproj.CoreCompileInputs.cache
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\scopedcss\bundle\Pascal háromszög.styles.css
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.csproj.CopyComplete
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\refint\Pascal háromszög.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.pdb
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\Pascal háromszög.genruntimeconfig.cache
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\obj\Debug\net6.0\ref\Pascal háromszög.dll
+C:\Users\d86y6c\Desktop\Git repo\Pascal háromszög\Pascal háromszög\bin\Debug\net6.0\Pascal háromszög.staticwebassets.runtime.json
